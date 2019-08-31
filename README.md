@@ -1,6 +1,6 @@
 # LAB - 11
 
-## Authentication
+### Authentication
 
 ### Author: Josh Nebe, Trae Bennett, Benjamin Clark
 
